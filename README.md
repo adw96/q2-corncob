@@ -1,4 +1,4 @@
-# dada22 QIIME 2 plugin
+# CORNCOB QIIME 2 plugin
 
 [![Build Status](https://travis-ci.org/qiime2/q2-dada22.svg?branch=master)](https://travis-ci.org/qiime2/q2-dada22)
 [![Coverage Status](https://coveralls.io/repos/github/qiime2/q2-dada22/badge.svg?branch=master)](https://coveralls.io/github/qiime2/q2-dada22?branch=master)
